@@ -1,6 +1,6 @@
 # Statistical & Visual exploratory analysis of Wine types & quality
 
-[Click here to read the comprehensive report on the analysis](!https://github.com/DataSorcerer/Statistical-and-Predictive-Modelling-Wine-Quality/blob/master/Wine_Quality_Analysis.ipynb)
+[Click here to read the comprehensive report on the analysis](https://github.com/DataSorcerer/Statistical-and-Predictive-Modelling-Wine-Quality/blob/master/Wine_Quality_Analysis.ipynb)
 
 > *"Wine is bottled poetry"* - Robert Louis Stevenson
 
